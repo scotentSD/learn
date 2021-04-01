@@ -4,7 +4,7 @@ description: A sandbox to use whilst learning GitHub
 excerpt_separator: "<!--more-->"
 baseurl: "/learn/"
 permalink: /:title/
-# The release of Jekyll Now that you're using
+# The release of Jekyll Now that you're using   
 version: v1.2.0
 plugins:
   - jekyll-relative-links
