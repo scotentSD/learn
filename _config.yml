@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: Learni Github Site
+title: Learning Github Site
 description: A sandbox to use whilst learning GitHub
 excerpt_separator: "<!--more-->"
 baseurl: "/learn/"
