@@ -9,10 +9,5 @@ Break anything you want :-)
 - Summary Timeline
 - Super Lighweight Summary
 
-
-
 <br><br><br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
-
-
-
