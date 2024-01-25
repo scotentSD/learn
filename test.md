@@ -10,10 +10,10 @@
 ## Pictures of my dogs
 
 Hector
-[Hector](/files/hector.jpg)
+![Hector](/files/hector.jpg)
 
 Hamish
-[Hamish](/files/hamish.jpg)
+![Hamish](/files/hamish.jpg)
 
 Both
-[Both](/files/both.jpg)
+![Both](/files/both.jpg)
