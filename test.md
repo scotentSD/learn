@@ -4,7 +4,7 @@
 - Easy
 - Will become BAU within a week
 
-## Files
+## Files
 
 - [Paddle Lengths](/files/paddles.pdf)
 
