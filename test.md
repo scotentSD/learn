@@ -10,7 +10,7 @@
 
 ## Pictures of my dogs
 
-### Hector
+### Hector
 
 ![Hector](/files/hector2.png)
 
@@ -18,6 +18,6 @@
 
 ![Hamish](/files/hamish.png)
 
-### Both
+### Both
 
 ![Both](/files/both.png)
