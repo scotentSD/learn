@@ -9,11 +9,11 @@
 
 ## Pictures of my dogs
 
-Hector
-![Hector](/files/hector.jpg)
+### Hector
+![Hector](/files/hector2.jpg)
 
-Hamish
+### Hamish
 ![Hamish](/files/hamish.jpg)
 
-Both
+### Both
 ![Both](/files/both.jpg)
