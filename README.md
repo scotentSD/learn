@@ -22,7 +22,7 @@ Break anything you want :-)
 4. ddd
 5. eee
 
-[bbc news](new.bbc.co.uk)
+[bbc news](http://news.bbc.co.uk)
  
 <br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
