@@ -13,7 +13,7 @@
 ![Hector](/files/hector2.jpg)
 
 ### Hamish
-![Hamish](/files/hamish.jpg)
+![Hamish](/files/hamish.png)
 
 ### Both
-![Both](/files/both.jpg)
+![Both](/files/both.png)
